@@ -11,7 +11,7 @@ export default function Navbar() {
   }
   const skills = ()=>{
     window.scroll({
-      top:540, 
+      top:580, 
       left: 0, 
       behavior: 'smooth' 
      });
@@ -19,7 +19,7 @@ export default function Navbar() {
   }
   const education = ()=>{
     window.scroll({
-      top:1050, 
+      top:1120, 
       left: 0, 
       behavior: 'smooth' 
      });

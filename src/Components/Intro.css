@@ -20,12 +20,12 @@
 
     color: white;
     font-family: 'Lato', sans-serif;
-    margin-top: 20px;
+    margin-top: 2%;
   
 
 }
 .handles{
-    margin: 30px auto;
+    margin: 3% auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
